@@ -1,5 +1,5 @@
 <?php
-include_once("/../app/Config.php");
+include_once("../app/Config.php");
 
 $host=Config::$mvc_bd_hostname;
 $user=Config::$mvc_bd_usuario;
