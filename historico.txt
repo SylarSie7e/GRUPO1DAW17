@@ -1,0 +1,10 @@
+En primer lugar conecté con git remote add origin https://github.com/SylarSie7e/GRUPO1DAW17.git y cloné el proyecto 
+del repositorio donde fuy añadida.
+En segudo lugar, añadí los archivos Model.php, Controller.php y Config.php a /app mediante el comando git add
+Posteriormente hice un commit para guardar los cambios.
+Seguidamente hice un git push -u origin master -f para subir las modificaciones a la rama master.
+
+Un vez el proyecto estaba completo en GITHUB cree la carpeta alimentos2017 en /public de Hostinguer. En el panel de control
+de Hostinguer fui a GIT y cree un nuevo repositorio tal como aparece en la documentación "Flujo de trabajo de programación".
+Una vez creado el repositorio lo desplegué.
+
