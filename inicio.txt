@@ -1,0 +1,2 @@
+Cree el repositorio y añadi a Maria Angeles para que pudiera trabajar en el proyecto.
+Como primer paso subí la vista del proyecto y el archivo de instalacion, dejando para ella la subida de la parte de configuración.
