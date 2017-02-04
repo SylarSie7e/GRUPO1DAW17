@@ -6,12 +6,12 @@ $user=Config::$mvc_bd_usuario;
 $pass=Config::$mvc_bd_clave;
 
 $conexion=mysqli_connect($host,$user,$pass) or die ("Imposible conectar");
-if (mysqli_query($conexion,"CREATE DATABASE IF NOT EXISTS u386099923_bdd")) {
+if (mysqli_query($conexion,"CREATE DATABASE IF NOT EXISTS u804839221_alime")) {
 	echo "Se ha creado la base de datos";
 } else {
 	echo "Ya existia la base de datos<br>";
 }
-mysqli_select_db($conexion,"u386099923_bdd");
+mysqli_select_db($conexion,"u804839221_alime");
 $alimentos="CREATE TABLE IF NOT EXISTS alimentos (
   id int(11) NOT NULL AUTO_INCREMENT,
   nombre varchar(255) NOT NULL,
