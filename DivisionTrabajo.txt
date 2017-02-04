@@ -4,4 +4,5 @@ Paco: ser administrador, crear el repositorio GRUPO1DAW17, añadir a Mariangeles
 y el archivo de instalación, crear el archivo inicio.txt, valoraciones.txt y DivisionTrabajo.txt .
 
 Maria Angeles: subir achivos de configuracion(Model,Config,Controller), crear carpeta alimentos2017 en hostinger y desplegar
-el repositorio de GitHub dentro de dicha carpeta, crear archivo historico.txt
+el repositorio de GitHub dentro de dicha carpeta, crear archivo historico.txt .
+
